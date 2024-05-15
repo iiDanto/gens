@@ -1,0 +1,4 @@
+config:
+  sell:
+    dirt: 1
+    stone: 5
